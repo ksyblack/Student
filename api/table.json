@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 10000,
+      "username": "张**",
+      "sex": "女",
+      "city": "山西",
+      "sign": "1*******8340",
+      "experience": 255,
+      "logins": 24,
+      "score": 57
+    },
+    {
+      "id": 10001,
+      "username": "王**",
+      "sex": "男",
+      "city": "陕西",
+      "sign": "1*******9948",
+      "experience": 884,
+      "logins": 58,
+      "score": 27
+    },
+    {
+      "id": 10002,
+      "username": "刘*",
+      "sex": "女",
+      "city": "广东",
+      "sign": "1*******1524",
+      "experience": 650,
+      "logins": 77,
+      "score": 31
+    },
+    {
+      "id": 10003,
+      "username": "张*",
+      "sex": "女",
+      "city": "广西",
+      "sign": "1*******6547",
+      "experience": 362,
+      "logins": 157,
+      "score": 68
+    },
+    {
+      "id": 10004,
+      "username": "连**",
+      "sex": "男",
+      "city": "吉林",
+      "sign": "1*******8374",
+      "experience": 807,
+      "logins": 51,
+      "score": 6
+    },
+    {
+      "id": 10005,
+      "username": "诸葛*",
+      "sex": "女",
+      "city": "云南",
+      "sign": "1*******9978",
+      "experience": 173,
+      "logins": 68,
+      "score": 87
+    },
+    {
+      "id": 10006,
+      "username": "王*",
+      "sex": "女",
+      "city": "山西",
+      "sign": "1*******7498",
+      "experience": 982,
+      "logins": 37,
+      "score": 34
+    },
+    {
+      "id": 10007,
+      "username": "薛**",
+      "sex": "男",
+      "city": "浙江",
+      "sign": "1*******3415",
+      "experience": 727,
+      "logins": 150,
+      "score": 28
+    },
+    {
+      "id": 10008,
+      "username": "卢**",
+      "sex": "男",
+      "city": "湖南",
+      "sign": "1*******1117",
+      "experience": 951,
+      "logins": 133,
+      "score": 14
+    },
+    {
+      "id": 10009,
+      "username": "邢**",
+      "sex": "女",
+      "city": "河北",
+      "sign": "1*******1113",
+      "experience": 484,
+      "logins": 25,
+      "score": 75
+    }
+  ]
+}
